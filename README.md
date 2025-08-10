@@ -45,7 +45,7 @@ L’intégration d’un modèle dans une interface graphique Python
 
 # Test 2 :
 
-![bus](https://github.com/user-attachments/assets/9bf51ceb-9b3a-4f4d-84ac-9ecfa8e34555)
+<img width="373" height="391" alt="chat2" src="https://github.com/user-attachments/assets/0cd55483-2a00-43b6-9632-9e610baf65f2" />
 
 
 
